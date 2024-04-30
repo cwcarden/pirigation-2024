@@ -1,5 +1,6 @@
 from flask import Flask, jsonify
 from flask_cors import CORS
+# from services.weather.weather import  -- for future use
 
 app = Flask(__name__, static_folder='../build', static_url_path='/')
 CORS(app)
