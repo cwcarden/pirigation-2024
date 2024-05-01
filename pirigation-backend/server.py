@@ -11,7 +11,7 @@ def index():
 
 @app.route('/api/message')
 def get_message():
-    return jsonify(message='Hello from Pirigation!')
+    return jsonify(message='Watering')
 
 if __name__ == '__main__':
     app.run(port=3001, debug=True)
