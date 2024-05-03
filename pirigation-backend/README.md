@@ -1,3 +1,5 @@
-### Install pip requirments
-### Run in venv if needed
-### run server.py script
+
+# Start Flask App
+## Install pip requirements.txt
+## Run in venv if needed
+## run server.py
